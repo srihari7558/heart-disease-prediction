@@ -37,3 +37,7 @@ streamlit run app.py
 ## 📌 Author
 
 P.Sri Hari
+
+## 🚀 Live Demo
+
+👉 [Click here to try the app](https://heart-disease-prediction-7558.streamlit.app/)
