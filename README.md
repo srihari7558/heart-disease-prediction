@@ -36,4 +36,4 @@ streamlit run app.py
 
 ## 📌 Author
 
-Your Name
+P.Sri Hari
